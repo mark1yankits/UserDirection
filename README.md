@@ -78,6 +78,3 @@ This project is a user catalog where users can search, filter, and sort informat
 
     Your project will be available at: `https://yourusername.github.io/user-catalog`.
 
-## License
-
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
